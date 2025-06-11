@@ -113,9 +113,9 @@ Through strong modeling and meaningful visualization, we provided clear recommen
 
 ## 👥 Team Members
 
-- 👑 Amr Amgad Adel  
+- 👑 Ziad Hani Mohamed  
 - Ammar Waleed Saad  
-- Zyad Hani Mohamed  
+- Amr Amgad Adel  
 - Aya Khaled Abd Fattah  
 - Hana SeragEldeen AbdelAziz  
 - Nora Mohamed Abd Elhalm
